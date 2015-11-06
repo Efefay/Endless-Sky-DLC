@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: endless-sky DLC
+Upstream-Contact: Joseph Isip <isipjoseph@gmail.com>
+Source: https://github.com/Efefay/Endless-Sky-DLC
+
+Files: *
+Copyright: Joseph Isip <isipjoseph@gmail.com>
+License: CC-BY-SA
